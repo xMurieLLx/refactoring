@@ -3,4 +3,4 @@
 
 [My Pet Projects](https://github.com/xMurieLLx)
 
-[This page review](https://xmuriellx.github.io/course_oct-nov_2022/)
+[This page review](https://xmuriellx.github.io/refactoring/)
