@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=M+PLUS+1+Code&family=Open+Sans:wght@300&family=Roboto:ital,wght@0,500;1,400&display=swap");
 
-
 main {
 	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1980' height='960' preserveAspectRatio='none' viewBox='0 0 1980 960'%3e%3cg mask='url(%26quot%3b%23SvgjsMask4964%26quot%3b)' fill='none'%3e%3crect width='1980' height='960' x='0' y='0' fill='url(%23SvgjsLinearGradient4965)'%3e%3c/rect%3e%3cpath d='M7 960L967 0L1723 0L763 960z' fill='url(%23SvgjsLinearGradient4966)'%3e%3c/path%3e%3cpath d='M656.4 960L1616.4 0L1857.9 0L897.9 960z' fill='url(%23SvgjsLinearGradient4966)'%3e%3c/path%3e%3cpath d='M1945 960L985 0L541 0L1501 960z' fill='url(%23SvgjsLinearGradient4967)'%3e%3c/path%3e%3cpath d='M1288.6 960L328.5999999999999 0L-601.4000000000001 0L358.5999999999999 960z' fill='url(%23SvgjsLinearGradient4967)'%3e%3c/path%3e%3cpath d='M1293.827028465602 960L1980 273.8270284656021L1980 960z' fill='url(%23SvgjsLinearGradient4966)'%3e%3c/path%3e%3cpath d='M0 960L686.1729715343979 960L 0 273.8270284656021z' fill='url(%23SvgjsLinearGradient4967)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask4964'%3e%3crect width='1980' height='960' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='12.88%25' y1='-26.56%25' x2='87.12%25' y2='126.56%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient4965'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(57%2c 96%2c 144%2c 1)' offset='0.43'%3e%3c/stop%3e%3cstop stop-color='rgba(137%2c 169%2c 209%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='0%25' y1='100%25' x2='100%25' y2='0%25' id='SvgjsLinearGradient4966'%3e%3cstop stop-color='rgba(17%2c 56%2c 139%2c 0.2)' offset='0'%3e%3c/stop%3e%3cstop stop-opacity='0' stop-color='rgba(17%2c 56%2c 139%2c 0.2)' offset='0.66'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='100%25' y1='100%25' x2='0%25' y2='0%25' id='SvgjsLinearGradient4967'%3e%3cstop stop-color='rgba(17%2c 56%2c 139%2c 0.2)' offset='0'%3e%3c/stop%3e%3cstop stop-opacity='0' stop-color='rgba(17%2c 56%2c 139%2c 0.2)' offset='0.66'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
 }
@@ -436,6 +435,10 @@ $social-button-colors: (
 	color: rgb(5, 5, 5);
 	text-align: left;
 	/*max-height:100%;*/
+}
+
+.content:last-child {
+	margin-bottom: 300px;
 }
 
 footer {
